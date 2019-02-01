@@ -1,0 +1,20 @@
+## body-parser pour parser le rendu 
+npm i --save express body-parser
+
+// ensemble d'utilitaire qui vient completer les fonctionnalités de JS
+npm i --save lodash
+
+
+installer mongodb   / https://www.mongodb.com/download-center/fr
+
+installer robto 3t sgbd https://robomongo.org/download
+
+npm install --save mongoose  // le driver
+
+#installer mocha pour les  tests unitaires  et autres
+npm i --save-dev mocha expect supertest nodemon 
+
+#installer nodemon pour redemarrer au 
+
+
+VOIR LA DOC MONGOOSE
